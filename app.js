@@ -1,4 +1,4 @@
-const firebaseURL = 'https://duumon-survay-default-rtdb.europe-west1.firebasedatabase.app'; // Replace with your Firebase project URL
+const firebaseURL = 'https://duumon-survay-default-rtdb.europe-west1.firebasedatabase.app/'; // Replace with your Firebase project URL
 
 const brewingOptions = [
   'Ristretto', 'Espresso', 'Double Espresso', 'Lungo/Americano',
